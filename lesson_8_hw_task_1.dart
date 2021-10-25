@@ -4,7 +4,7 @@ void main() {
   int num2 = 10;
   int num3 = 2;
   int y = 0;
-  List numbers = [1, 1, 2, 7, 7, 3, 1, 2, 2, 5, 8, 9, 9, 9];
+  List numbers = [1, 2, 5, 8, 9, 9, 8];
 
   int y = square(10);
   print(y);
